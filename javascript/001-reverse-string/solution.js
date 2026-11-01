@@ -10,7 +10,7 @@ function reverseString(s) {
     reversedString += s[i];
   }
 
-  console.log(reversedString);
+  return reversedString;
 }
 
 
