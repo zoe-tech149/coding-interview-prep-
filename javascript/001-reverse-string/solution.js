@@ -1,7 +1,3 @@
-const s = "SUNFLOWER";
-
-
-
 function reverseString(s) {
 
   let reversedString = "";
