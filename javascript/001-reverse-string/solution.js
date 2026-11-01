@@ -9,6 +9,7 @@ function reverseString(s) {
   return reversedString;
 }
 
+module.exports = reverseString;
 
 
 
