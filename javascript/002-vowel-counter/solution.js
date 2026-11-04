@@ -7,5 +7,15 @@ function countVowels(s) {
     const character = s[i];
 
     const lowercaseCharacter = character.toLowerCase();
+
+    if (
+      lowercaseCharacter === "a" ||
+      lowercaseCharacter === "e" ||
+      lowercaseCharacter === "i" ||
+      lowercaseCharacter === "o" ||
+      lowercaseCharacter === "u"
+    ) {
+
+    }
   }
 }
