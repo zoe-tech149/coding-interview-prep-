@@ -15,7 +15,7 @@ function countVowels(s) {
       lowercaseCharacter === "o" ||
       lowercaseCharacter === "u"
     ) {
-
+      vowelCount++
     }
   }
 }
