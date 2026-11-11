@@ -8,4 +8,6 @@ function findMax(mums) {
       largestSoFar = currentValue;
     }
   }
+
+  return largestSoFar;
 }
