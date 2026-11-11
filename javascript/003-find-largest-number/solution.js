@@ -5,7 +5,7 @@ function findMax(mums) {
     const currentValue = numbers[i];
 
     if (currentValue > largestSoFar) {
-      
+      largestSoFar = currentValue;
     }
   }
 }
